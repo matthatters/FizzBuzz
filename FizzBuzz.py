@@ -1,5 +1,5 @@
 #My FizzBuzz Program in Python
-#Which I spent all too much time thinking about
+#Which I spent all too much time thinking about.
 
 for number in range(1, 34):
     word = ''
